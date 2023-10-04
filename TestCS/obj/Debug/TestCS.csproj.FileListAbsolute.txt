@@ -1,0 +1,7 @@
+C:\Users\Excite\RiderProjects\TestCS\TestCS\bin\Debug\TestCS.exe
+C:\Users\Excite\RiderProjects\TestCS\TestCS\bin\Debug\TestCS.pdb
+C:\Users\Excite\RiderProjects\TestCS\TestCS\obj\Debug\TestCS.csproj.AssemblyReference.cache
+C:\Users\Excite\RiderProjects\TestCS\TestCS\obj\Debug\TestCS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Excite\RiderProjects\TestCS\TestCS\obj\Debug\TestCS.csproj.CoreCompileInputs.cache
+C:\Users\Excite\RiderProjects\TestCS\TestCS\obj\Debug\TestCS.exe
+C:\Users\Excite\RiderProjects\TestCS\TestCS\obj\Debug\TestCS.pdb
